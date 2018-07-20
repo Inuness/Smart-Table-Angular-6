@@ -1,0 +1,28 @@
+{
+    "characters": [
+    {
+        "id": "1",
+        "name": "João Francisco",
+        "age": "45"
+    },
+    {
+        "id": "2",
+        "name": "Luciana Almeida",
+        "age": "43"
+    },
+    {
+        "id": "3",
+        "name": "Emilio Augusto",
+        "age": "30"
+    },
+    {
+        "id": "4",
+        "name": "Nícolas Alexandre",
+        "age": "30"
+    },
+    {
+        "id": "5",
+        "name": "Marco Aurélio",
+        "age": "50"
+    }]
+}
